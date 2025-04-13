@@ -70,3 +70,7 @@ plt.axis('off')
 ### Display the result of Hough transform
 
 ![alt text](image-3.png)
+
+## Result
+
+Thus,The Python program to detect the lines using Hough Transform run successfully.
